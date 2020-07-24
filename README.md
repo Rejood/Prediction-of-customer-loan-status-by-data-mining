@@ -14,8 +14,13 @@ This is a very important stage in any data science/machine learning pipeline. It
 Below are some of the factors which I think can affect the Loan Approval (dependent variable for this loan prediction problem):
 
 Salary: Applicants with high income should have more chances of loan approval.
+
 Previous history: Applicants who have repayed their previous debts should have higher chances of loan approval.
+
 Loan amount: Loan approval should also depend on the loan amount. If the loan amount is less, chances of loan approval should be high.
+
 Loan term: Loan for less time period and less amount should have higher chances of approval.
+
 EMI: Lesser the amount to be paid monthly to repay the loan, higher the chances of loan approval.
+
 
